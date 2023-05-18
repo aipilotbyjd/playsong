@@ -1,5 +1,5 @@
-/* eslint-disable @typescript-eslint/no-var-requires */
 /** @type {import('tailwindcss').Config}*/
+
 const config = {
 	// 1. Apply the dark mode class setting:
 	darkMode: 'class',
